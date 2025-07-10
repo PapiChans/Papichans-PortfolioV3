@@ -6,7 +6,7 @@
 | ------------------- | --------------------|
 | **Description**     | This is my Personal Porfolio V3 which is more professional looking and refresh my Django Skills. |
 | **Project Duration**    | July 6, 2025 - In Progress |
-| **Current Version** | v0.0.3 | 
+| **Current Version** | v0.0.4 | 
 
 
 ## Technologies Used for this Application

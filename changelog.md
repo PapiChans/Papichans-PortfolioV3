@@ -15,3 +15,8 @@
 - July 8, 2025
 - Added Fonts
 - Initiating Static Files
+
+## 0.0.4
+- July 10, 2025
+- Add Bootstrap full Library
+- Initiate the 'Outfit' Font
